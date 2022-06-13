@@ -1,0 +1,12 @@
+{
+  "ronitogra": {
+    "domain": "https://www.ronitogra.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://ronitogra.com/start-up-diaries/",
+    "keywords": [
+      "business"
+    ]
+  }
+}
